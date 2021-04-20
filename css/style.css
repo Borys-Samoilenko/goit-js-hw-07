@@ -1,0 +1,12 @@
+ul {
+  display: flex;
+}
+.imgitem {
+  width: 240px;
+  height: 240px;
+}
+
+.item-style {
+  margin-left: 15px;
+  list-style: none;
+}
